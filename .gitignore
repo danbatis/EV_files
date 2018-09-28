@@ -1,4 +1,5 @@
 sandbox/*
+3D/fbx/*
 .vscode
 .vs
 *.VC.db
