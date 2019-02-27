@@ -10,3 +10,5 @@ Art/3D/fbx/*
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.swatch
+*.swatches
